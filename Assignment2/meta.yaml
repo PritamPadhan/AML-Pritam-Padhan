@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741189492062
+current_stage: None
+description: null
+last_updated_timestamp: 1741189492062
+name: Spam_Ham_Best_Model
+run_id: 0cc0d6a01c384f6490441080e3b332bf
+run_link: null
+source: file:///home/pritam/Downloads/pritamAML2/Data/mlruns/308788947089622271/0cc0d6a01c384f6490441080e3b332bf/artifacts/wistful-hen-585
+status: READY
+status_message: null
+storage_location: file:///home/pritam/Downloads/pritamAML2/Data/mlruns/308788947089622271/0cc0d6a01c384f6490441080e3b332bf/artifacts/wistful-hen-585
+user_id: null
+version: 1
