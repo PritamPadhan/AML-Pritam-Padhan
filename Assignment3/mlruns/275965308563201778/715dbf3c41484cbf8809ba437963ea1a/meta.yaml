@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pritam/Documents/AppliedML/Assignment3/mlruns/275965308563201778/715dbf3c41484cbf8809ba437963ea1a/artifacts
+end_time: 1743586682533
+entry_point_name: ''
+experiment_id: '275965308563201778'
+lifecycle_stage: active
+run_id: 715dbf3c41484cbf8809ba437963ea1a
+run_name: learned-roo-747
+run_uuid: 715dbf3c41484cbf8809ba437963ea1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743586679693
+status: 3
+tags: []
+user_id: pritam

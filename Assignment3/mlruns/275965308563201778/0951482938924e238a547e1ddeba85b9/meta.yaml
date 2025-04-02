@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pritam/Documents/AppliedML/Assignment3/mlruns/275965308563201778/0951482938924e238a547e1ddeba85b9/artifacts
+end_time: 1743586684926
+entry_point_name: ''
+experiment_id: '275965308563201778'
+lifecycle_stage: active
+run_id: 0951482938924e238a547e1ddeba85b9
+run_name: polite-flea-618
+run_uuid: 0951482938924e238a547e1ddeba85b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743586682534
+status: 3
+tags: []
+user_id: pritam
